@@ -1,0 +1,1 @@
+<img src="<?=site_url()?>/uploads/thumbs/<?=$imagen?>" />
